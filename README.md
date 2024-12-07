@@ -19,11 +19,3 @@ Ensure you have the following installed:
 
 - Python 3.7+
 - pip (Python package installer)
-
-### Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/Restaurant-Review-Sentiment-Analysis.git
-   cd Restaurant-Review-Sentiment-Analysis
