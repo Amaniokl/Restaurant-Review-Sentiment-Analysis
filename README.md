@@ -9,10 +9,6 @@ This project uses the BART (Bidirectional and Auto-Regressive Transformers) mode
 - **High Accuracy**: The model achieved 91.8% accuracy after fine-tuning.
 - **Easy Integration**: Can be easily integrated into web or backend systems for real-time sentiment analysis of restaurant reviews.
 
-## Installation
-
-To run this project locally, follow these steps:
-
 ### Prerequisites
 
 Ensure you have the following installed:
